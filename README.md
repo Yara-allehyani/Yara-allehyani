@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi , I،M Yara Allehyani 👋
+###  Computer Science Student
+I'm a Computer Science student passionate about programming, technology, and creative problem-solving.
+I enjoy building projects, learning new technologies, and continuously improving my technical skills.
 
-<!--
-**Yara-allehyani/Yara-allehyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills
+### 💻 Programming Languages
+- ☕️ Java
+- 🐍 Python
+-  c++
+ ### 🛠️ Tools & Technologies
+ - 💻 VS Code
 
-Here are some ideas to get you started:
+- 🌐 GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕️ Eclipse
+
+- 🧩 NetBeans
+
+ ### 📚 Currently Learning
+ - ☕️ Java
+
+- 🐍 Python
+
+- 🧠 Data Structures & Algorithms
+  
