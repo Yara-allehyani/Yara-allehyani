@@ -30,7 +30,5 @@ _________
 
 * - 🎬 Cinema Management System — Java OOP Project
 * - More projects coming soon…👀
-  
 
-- 🧠 Data Structures & Algorithms
   
